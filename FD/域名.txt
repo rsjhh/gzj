@@ -52,6 +52,3 @@ gur.gov.ua
 www.udemy.com
 fbi.gov
 www.visa.com.tw
-trojan://f813c7ef-3b58-4b7f-93d5-4c862d292ec3@saas.sin.fan:443?security=tls&sni=dec.rsjhh.eu.cc&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=dec.rsjhh.eu.cc&path=%2Ftrojan-argo%3Fed%3D2560#FR-OVHcloud
-vless://f813c7ef-3b58-4b7f-93d5-4c862d292ec3@saas.sin.fan:443?encryption=none&security=tls&sni=dec.rsjhh.eu.cc&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=dec.rsjhh.eu.cc&path=%2Fvless-argo%3Fed%3D2560#FR-OVHcloud
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZSLU9WSGNsb3VkIiwNCiAgImFkZCI6ICJzYWFzLnNpbi5mYW4iLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZjgxM2M3ZWYtM2I1OC00YjdmLTkzZDUtNGM4NjJkMjkyZWMzIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJkZWMucnNqaGguZXUuY2MiLA0KICAicGF0aCI6ICIvdm1lc3MtYXJnbz9lZD0yNTYwIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImRlYy5yc2poaC5ldS5jYyIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICJmaXJlZm94IiwNCiAgImluc2VjdXJlIjogIjAiDQp9
